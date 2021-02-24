@@ -1,4 +1,4 @@
-package guru.springframework.spring5webapp;
+package guru.springframework.spring5webapp.models;
 
 import javax.persistence.*;
 import java.util.HashSet;
